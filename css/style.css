@@ -45,14 +45,14 @@ a[href="https://www.hondashop.com.au/product/bikes-for-him/honda-cbr1000rr-r-sp-
   font-weight: 500;
 }
 
-.Wrapper {
-  background: rgb(63, 77, 54);
+.wrapper {
+  background: rgb(63, 50, 33);
   margin: 0 auto;
   padding: 44px 70px;
   width: 1200px;
 }
 
-.Wrapper_moto {
+.wrapper_moto {
   margin: 0 auto;
   width: 1200px;
   background: rgb(238, 172, 4);
